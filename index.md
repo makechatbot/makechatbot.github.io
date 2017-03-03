@@ -74,7 +74,7 @@ https://brunch.co.kr/@pilsogood/2
 http://blog.lgcns.com/1126
 
 키워드는 대화형 커머스
-https://medium.com/@keywonc/2016%EB%85%84%EC%9D%98-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%8A%94-%EB%8C%80%ED%99%94%ED%98%95-%EC%BB%A4%EB%A8%B8%EC%8A%A4-79f9f493ff11#.yf05c8dxg
+https://goo.gl/siFrWu
 
 챗봇은 무엇인가?
 https://brunch.co.kr/@gentlepie/2
@@ -90,10 +90,6 @@ https://brunch.co.kr/@wej6688/24
 
 챗봇은 앱을 대체할까
 https://brunch.co.kr/@gentlepie/6
-
-
-AI, 챗봇과 핑퐁 
-http://blog.naver.com/PostView.nhn?blogId=sttora2&logNo=220699839745&categoryNo=78&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList
 
 
 챗봇 A to Z 
