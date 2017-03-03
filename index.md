@@ -1,37 +1,113 @@
-## Welcome to GitHub Pages
+## 챗봇이란?
 
-You can use the [editor on GitHub](https://github.com/makechatbot/makechatbot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+챗봇(Chatbot)’이란 채팅로봇, 즉 인공지능을 기반으로 사람과 대화를 나누는 프로그램을 말합니다. 
+인간의 대화를 흉내 내는 컴퓨터 프로그램으로 사용자가 컴퓨터와 상호작용하는 방식을 사람과의 대화처럼 전환하는 기술입니다. 
+애플의 시리(Siri)기능을 떠올리면 쉽게 이해할 수 있습니다.
+과거의 챗봇은 단순히 패턴매칭 방식을 이용하여 사전에 정의된 키워드를 인식해 입력된 응답을 출력하는 것에 불과했으나, 
+최근에는 인공지능 기술의 발전으로 인간의 자연스러운 언어로 질문이나 명령을 내리면 맥락을 파악해 응답이 가능하고, 
+대화가 축적될수록 스스로 학습을 통해 정확도를 높일 수 있는 기반을 마련합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+챗봇은 메신저와 결합한 메신저봇 형태로 발전하고 있습니다. 
+과거 구글 검색 등의 검색엔진을 이용하던 온라인 유저들은 소셜 네트워크 이용은 물론, 
+왓츠앱이나, 페이스북 메신저, 텔레그램, 위챗, 카카오톡 등 메신저 앱으로 이동하는 추세입니다. 
+챗봇이 메신저 서비스의 새로운 혁신 아이콘으로 부상하는 이유이지요.
 
-### Markdown
+카카오톡에서는 '플러스친구'나 '옐로아이디', 라인은 '공식 계정'이나 '라인@'과 같은 명칭으로 사용
+챗봇 API라는 명칭으로 대화용 API를 외부 사업자에게 제공
+외부 사업자는 이러한 기업 계정과 챗봇API를 이용해서 고객 상담, 방송 참여, 주문 채널 등으로 활용
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 챗봇이 주목받는 있는 이유는?
+
+Simple 그래픽요소, 네이게이션, 채팅은 새로배울 필요가 없다.
+Private 많은 사람들이 공공장소나 업무에 전화보다 텍스트를 선호한다.
+Fast 별도의 앱을 다운로드 할 필요가 없다.
+Personalized 개인에 맞춘 컨텐츠, 경험 가능
+Spontaneous 메시지를 즉각적으로 전달. 시간을 절약한다.
+
+빠르다. 쉽다. 비용효율적이다.
+
+사용자 경험 측면에서 챗봇의 다섯 가지 장점
+
+
+- 익숙한 메신저 앱 사용과 채팅 환경 
+- 별도의 앱 설치가 필요 없는 서비스
+- 빠르고 간편하게 사용자 니즈 해결
+- 개인화 서비스 가능
+- 대화의 맥락 유지 및 일관성 있는 경험 제공
 
 ```markdown
-Syntax highlighted code block
+챗봇을 활용한 대화형 서비스 사례
+https://goo.gl/eln4He
+http://blog.lgcns.com/1334
 
-# Header 1
-## Header 2
-### Header 3
+호텔예약 서비스 '익스피디아(expedia)’
+택시 호출 서비스 ‘우버(UBER)’
+의료 상담 서비스 ‘헬스탭(Health tap)’
+외국어 공부 서비스 ‘듀오링고(duolingo)’
+화장품 유통기업 '세포라(Sephora)’
+의류기업 ‘H&M’
+패스트푸드 기업 ‘피자헛'
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+페이스북 날씨 봇 Poncho 
+스타벅스의 챗봇 Barista
+버버리 챗봇
+이베이의 SHOPBOT
+오바마 챗봇
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 챗봇빌더 생태계 
 
-### Jekyll Themes
+https://brunch.co.kr/@pilsogood/2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/makechatbot/makechatbot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+모든 것이 대화형 패러다임으로 갈까?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+아니다. 다만,
+새로운 서비스를 시도하는데 들어가는 비용과 마찰을 줄임으로써, 
+대화형 커머스 덕에 가벼운 실험을 많이 해 볼 수 있게 될 것입니다.
+앞으로 서비스 개발자는 매번 사용자에게 새로운 인터페이스를 가르치는 대신, 
+이미 사용자들이 친숙한 대화 환경에서 어떻게 하면 더 좋은 가치를 제공할 수 있을지에 집중할 수 있다.
+
+### 참조
+
+모바일 메신저 '챗봇(Chatbot)'이란 무엇일까?
+http://blog.lgcns.com/1126
+
+키워드는 대화형 커머스
+https://medium.com/@keywonc/2016%EB%85%84%EC%9D%98-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%8A%94-%EB%8C%80%ED%99%94%ED%98%95-%EC%BB%A4%EB%A8%B8%EC%8A%A4-79f9f493ff11#.yf05c8dxg
+
+챗봇은 무엇인가?
+https://brunch.co.kr/@gentlepie/2
+
+해외에서 만난 챗봇의 다양한 모습들
+http://blog.lgcns.com/1334
+
+봇 vs 인간
+https://brunch.co.kr/@sonujung/26
+
+챗봇의 미래는 인공지능이 아니다
+https://brunch.co.kr/@wej6688/24
+
+챗봇은 앱을 대체할까
+https://brunch.co.kr/@gentlepie/6
+
+
+AI, 챗봇과 핑퐁 
+http://blog.naver.com/PostView.nhn?blogId=sttora2&logNo=220699839745&categoryNo=78&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList
+
+
+챗봇 A to Z 
+https://brunch.co.kr/@ebprux/197
+
+챗봇의 시대 오나?
+http://m.blog.naver.com/jklcompany21/220719939594
+
+봇은 어떻게 웹과 모바일앱을 무너뜨릴 수 있을까
+https://brunch.co.kr/@five0203/24
+
+
+챗봇은 어떻게 만들까?
+https://brunch.co.kr/@ebprux/229
+
+카톡, 네이버, 페북 - 챗봇 어디에 만들어야 하나
+https://brunch.co.kr/@gentlepie/12
